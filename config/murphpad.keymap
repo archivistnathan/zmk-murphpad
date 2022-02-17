@@ -71,7 +71,7 @@
         nav_layer {
             label = " nav layer";
             bindings = <
-                &trans      &C_AC_NEW     &trans        &trans          &kp LG(D)  
+                &trans      &kp C_AC_NEW     &trans        &trans          &kp LG(D)  
                 &trans      &kp KP_NUM &trans        &trans          &trans     
                 &trans      &kp LC(LEFT_ARROW)     &kp UP_ARROW        &kp LC(RIGHT_ARROW)             &trans
                 &bt BT_CLR  &kp LEFT_ARROW     &kp DOWN_ARROW        &kp RIGHT_ARROW          &trans  
